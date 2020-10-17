@@ -11,7 +11,7 @@
 
 * What sub-topic has your team chosen? Or did you choose a topic not within the specified topics?
 
-*Could you list the ideas you plan to implement in your project?*
+* Could you list the ideas you plan to implement in your project?*
 
 * What language (programming) are you using?
 
